@@ -1,0 +1,16 @@
+
+.navbar{
+    width: 85.3rem;
+    height: 80px;
+    background-color: rgb(53, 8, 95);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}   
+
+.navbar > ul {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
